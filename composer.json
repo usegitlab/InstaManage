@@ -1,0 +1,7 @@
+{
+    "require": {
+        "mgp25/instagram-php": "^6.1",
+        "react/child-process": "^0.6.1",
+        "amphp/parallel": "^1.2"
+    }
+}
